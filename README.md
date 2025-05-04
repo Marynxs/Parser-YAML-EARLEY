@@ -49,7 +49,7 @@ conta: $9/3+21^1*10$
   "nome": "João",
   "idade": 30,
   "ativo": true,
-  "conta": 31
+  "conta": 213
 }
 
 AST: [["divisao", 9, 3], ["potencia", 21, 1], ["soma", 3, 21], ["multiplicacao", 24, 10]]
